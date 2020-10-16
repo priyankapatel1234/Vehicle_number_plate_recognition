@@ -1,8 +1,8 @@
 import numpy as np
 import cv2      #install pip install opencv-python in anaconda prompt
 import os
-import pytesseract    ## Optical Character Recognition (OCR) is a system that provides a full alphanumeric character recognition on an
-                        #image.The system allows extracting text from an image, to convert it later into an editable file.
+import pytesseract    ### Optical Character Recognition (OCR) is a system that provides a full alphanumeric character recognition on an
+                       ###image.The system allows extracting text from an image, to convert it later into an editable file.
 import matplotlib.pyplot as plt
 %matplotlib inline
 #print(cv2.__version__)
