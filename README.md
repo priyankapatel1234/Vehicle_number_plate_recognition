@@ -1,5 +1,5 @@
 # Vehicle_number_plate_recognition
-Abstract: The video supervision systems are preferred for security monitoring, however, the detection of the dynamic or
+<b>Abstract: </b>The video supervision systems are preferred for security monitoring, however, the detection of the dynamic or
 moving object is a challenging part. In areas wherever automobile parking space is taken by a specific vehicle, the
 incorrectly parked vehicles are recognized. It is noted that the license plates of the vehicles are found in several forms, size and conjointly they're completely different in color. This makes the detection of the number plate of a vehicle, the
 foremost fascinating and difficult analysis topic. Number plate detection is useful in finding purloined cars, automobile
