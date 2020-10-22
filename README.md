@@ -6,4 +6,4 @@
 <img src="images/car2.jpg" alt="image not found" width="800" height="500">
 
 <br><br>
-<img src="images/src.png" alt="image not found" width="900" height="500">
+<img src="images/scr.png" alt="image not found" width="900" height="500">
