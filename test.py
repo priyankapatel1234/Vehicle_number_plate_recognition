@@ -4,7 +4,7 @@ import numpy as np          ##
 import pytesseract                   ##
 import matplotlib.pyplot as plt           ##
 %matplotlib inline
-pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract.exe'           ##
 
 img = cv2.imread("./images/car.png",cv2.IMREAD_COLOR)
 img = cv2.resize(img, (600,400) )
