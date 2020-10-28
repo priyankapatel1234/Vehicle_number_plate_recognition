@@ -1,6 +1,6 @@
 import cv2             ##install pip install opencv-python in anaconda prompt
 import imutils        ##
-import numpy as np
+import numpy as np          ##
 import pytesseract
 import matplotlib.pyplot as plt
 %matplotlib inline
