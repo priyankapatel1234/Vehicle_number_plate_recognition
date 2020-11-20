@@ -3,7 +3,7 @@
 <b>2. Character Segmentation:</b> Once we have detected the Number  Plate we have to crop it out and save it as a new image. Again this can be done easily using OpenCV.<br><br>
 <b>3. Character Recognition:</b> New image that we obtained in the previous step is sure to have some characters (Numbers/Alphabets) written on it. So, we can perform OCR (Optical Character Recognition) on it to detect the number.<br><br>
 
-<img src="images/car2.jpg" alt="image not found" width="900" height="500">
+<img src="images/car2.jpg" alt="image not found" width="900"  height="500">
 
 <br><br>
 <img src="images/scr.png" alt="image not found" width="900" height="500">
