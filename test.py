@@ -42,7 +42,7 @@ mask = np.zeros(gray.shape,np.uint8)
 new_image = cv2.drawContours(mask,[screenCnt],0,255,-1,)
 new_image = cv2.bitwise_and(img,img,mask=mask)
 
-# Now crop
+# now crop
 (x, y) = np.where(mask == 255)
 (topx, topy) = (np.min(x), np.min(y))
 (bottomx, bottomy) = (np.max(x), np.max(y))
